@@ -1,0 +1,27 @@
+# Raw and downloaded datasets
+data/raw/
+data/downloads/
+data/cache/
+
+# Generated artifacts and model outputs
+artifacts/
+reports/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment files and secrets
+.env
+*.token
+credentials.json
+
+# Models and large binary files
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Operating-system files
+.DS_Store

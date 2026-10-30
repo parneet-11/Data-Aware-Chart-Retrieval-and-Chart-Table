@@ -1,0 +1,17 @@
+{
+  "train": {
+    "charts": 100,
+    "tables": 100,
+    "queries": 200
+  },
+  "val": {
+    "charts": 100,
+    "tables": 100,
+    "queries": 200
+  },
+  "test": {
+    "charts": 100,
+    "tables": 100,
+    "queries": 200
+  }
+}
